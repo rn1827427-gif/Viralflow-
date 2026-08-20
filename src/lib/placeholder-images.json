@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-vid",
+      "description": "Viral video thumbnail",
+      "imageUrl": "https://picsum.photos/seed/viral1/1200/675",
+      "imageHint": "viral video"
+    },
+    {
+      "id": "trending-thumb",
+      "description": "Trending thumbnail",
+      "imageUrl": "https://picsum.photos/seed/viral2/800/450",
+      "imageHint": "trending content"
+    }
+  ]
+}
